@@ -1,0 +1,18 @@
+{
+	"path": "network/mtu-migration/decrease/start/network-mtu-migration-decrease-start-ref.yaml",
+	"owners": {
+		"approvers": [
+			"danwinship",
+			"dcbw",
+			"knobunc",
+			"trozet"
+		],
+		"reviewers": [
+			"danwinship",
+			"dcbw",
+			"jcaamano",
+			"kyrtapz",
+			"trozet"
+		]
+	}
+}
